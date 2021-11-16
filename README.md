@@ -22,7 +22,7 @@ To add product to cart click add to cart button
 
 
 If the product is added to  cart you will get a popup notification
-![alt text](http://src\assets\images\addedToCartAlert.jpg)
+![alt text](src\assets\images\addedToCartAlert.jpg)
 
 
 Click cart to view items in a cart
