@@ -18,7 +18,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.##
 ## User Manual
 
 To add product to cart click add to cart button
-![alt text](./src\assets\images\addToCart.jpg)
+![alt text](/src\assets\images\addToCart.jpg)
 
 
 If the product is added to  cart you will get a popup notification
