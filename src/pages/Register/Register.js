@@ -1,12 +1,12 @@
 import React, { useState } from "react";
 import { connect } from "react-redux";
-import { Link, Redirect } from "react-router-dom";
+import { Link } from "react-router-dom";
 import { registerUser, cleanErrorMessage } from "../../State/actions";
 import "./css/Register.css";
 import Swal from "sweetalert2";
 import { Button } from "../../components";
 import Header from "../../components/Header/Header";
-import FormCard from "../../components/LoginCard/FormCard";
+import FormCard from "../../components/FormCard/FormCard";
 const Register = ({ registerUser, users, cleanErrorMessage }) => {
   const [form, setForm] = useState({
     name: "",
@@ -47,8 +47,7 @@ const Register = ({ registerUser, users, cleanErrorMessage }) => {
     <div className="register">
       <Header />
       <FormCard heading={"Sign Up"}>
-        
-      <input
+        <input
           type="text"
           value={form.name}
           onChange={(e) => setForm({ ...form, name: e.target.value })}
@@ -86,7 +85,6 @@ const mapDispatchToProps = () => {
   return {
     registerUser,
     cleanErrorMessage,
-
   };
 };
 
