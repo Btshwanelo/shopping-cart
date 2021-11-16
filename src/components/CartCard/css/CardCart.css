@@ -1,0 +1,67 @@
+.cart__item {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: row;
+          flex-direction: row;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+  -ms-flex-line-pack: center;
+      align-content: center;
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  border: 3px solid #000000;
+  background: #f3f3f3;
+  border-radius: 6px;
+  height: 100px;
+  width: 100%;
+  margin: 3px;
+  max-width: 600px;
+}
+
+.cart__item__img img {
+  width: 50px;
+  height: 80px;
+}
+
+.cart__item__title {
+  margin: 1px;
+  font-weight: 400;
+}
+
+.cart__item__quantity {
+  margin: 3px;
+  border: 2px solid #e7e9ec;
+}
+
+.cart__item__quantity button {
+  background: inherit;
+  border: none;
+}
+
+.cart__item__quantity input {
+  border: none;
+  width: 30px;
+}
+
+.cart__item__price {
+  margin: 3px;
+  font-weight: 400;
+}
+
+.cart__item__total {
+  margin: 3px;
+  font-weight: 400;
+}
+
+.cart__item__delete button {
+  background: inherit;
+  border: none;
+}
+/*# sourceMappingURL=CardCart.css.map */
