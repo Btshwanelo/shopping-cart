@@ -18,32 +18,32 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.##
 ## User Manual
 
 To add product to cart click add to cart button
-![alt text](http://src\assets\images\addToCart.jpg)
+![alt text](https://github.com/Btshwanelo/shopping-cart/blob/master/src/assets/images/addToCart.jpg)
 
 
 If the product is added to  cart you will get a popup notification
-![alt text](http://src\assets\images\addedToCartAlert.jpg)
+![alt text](https://github.com/Btshwanelo/shopping-cart/blob/master/src/assets/images/addedToCartAlert.jpg)
 
 
 Click cart to view items in a cart
-![alt text](http://src\assets\images\numberOfItems.jpg)
+![alt text](https://github.com/Btshwanelo/shopping-cart/blob/master/src/assets/images/numberOfItems.jpg)
 
 
 Modify quantity of the product
-![alt text](http://src\assets\images\incrementQuantity.jpg)
+![alt text](https://github.com/Btshwanelo/shopping-cart/blob/master/src/assets/images/incrementQuantity.jpg)
 
 
 Click login
-![alt text](http://src\assets\images\login.jpg)
+![alt text](https://github.com/Btshwanelo/shopping-cart/blob/master/src/assets/images/login.jpg)
 
 
 To register new user click SignUp
-![alt text](http://src\assets\images\signIn.jpg)
+![alt text](https://github.com/Btshwanelo/shopping-cart/blob/master/src/assets/images/signIn.jpg)
 
 
 fill all the fields and click singup button
-![alt text](http://src\assets\images\signUpForm.jpg)
+![alt text](https://github.com/Btshwanelo/shopping-cart/blob/master/src/assets/images/signUpForm.jpg)
 
 
 To check out click checkout button in cart
-![alt text](http://src\assets\images\checkOut.jpg)
+![alt text](https://github.com/Btshwanelo/shopping-cart/blob/master/src/assets/images/checkOut.jpg)
